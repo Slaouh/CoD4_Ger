@@ -1,0 +1,17 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd_PC.cfg"
+FILENOTES           ""
+
+REFERENCE           INTRO1
+LANG_ENGLISH        ""Testmap1""
+REFERENCE           INTRO2
+LANG_ENGLISH        ""Player1""
+REFERENCE           INTRO3
+LANG_ENGLISH        ""Location""
+REFERENCE           INTRO4
+LANG_ENGLISH        ""SAS""
+
+REFERENCE           TRIGG_OPEN_DOOR
+LANG_ENGLISH        "Press ^3&&1^7 to open Door."
+
+ENDMARKER
